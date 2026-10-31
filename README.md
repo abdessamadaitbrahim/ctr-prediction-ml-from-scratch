@@ -6,19 +6,7 @@ Academic project, National School of Applied Sciences of Tetouan (ENSA Tetouan),
 
 <div align="center">
 
-[![Overview](https://img.shields.io/badge/Overview-2563EB?style=for-the-badge)](#overview)
-[![Dataset](https://img.shields.io/badge/Dataset-2563EB?style=for-the-badge)](#dataset)
-[![EDA](https://img.shields.io/badge/EDA-2563EB?style=for-the-badge)](#exploratory-data-analysis)
-[![Preprocessing](https://img.shields.io/badge/Preprocessing-2563EB?style=for-the-badge)](#data-preprocessing)
-
-[![Models](https://img.shields.io/badge/Models-7C3AED?style=for-the-badge)](#machine-learning-approaches)
-[![Evaluation](https://img.shields.io/badge/Evaluation-7C3AED?style=for-the-badge)](#evaluation-methodology)
-[![Results](https://img.shields.io/badge/Results-7C3AED?style=for-the-badge)](#results)
-[![Visualizations](https://img.shields.io/badge/Visualizations-7C3AED?style=for-the-badge)](#visualizations)
-
-[![Limitations](https://img.shields.io/badge/Limitations-DC2626?style=for-the-badge)](#known-limitations)
-[![Contributors](https://img.shields.io/badge/Contributors-F59E0B?style=for-the-badge)](#contributors)
-[![References](https://img.shields.io/badge/References-F59E0B?style=for-the-badge)](#references-and-acknowledgments)
+[![Overview](https://img.shields.io/badge/Overview-2563EB?style=flat-square)](#overview) [![Dataset](https://img.shields.io/badge/Dataset-2563EB?style=flat-square)](#dataset) [![EDA](https://img.shields.io/badge/EDA-2563EB?style=flat-square)](#exploratory-data-analysis) [![Preprocessing](https://img.shields.io/badge/Preprocessing-2563EB?style=flat-square)](#data-preprocessing) [![Models](https://img.shields.io/badge/Models-7C3AED?style=flat-square)](#machine-learning-approaches) [![Evaluation](https://img.shields.io/badge/Evaluation-7C3AED?style=flat-square)](#evaluation-methodology) [![Results](https://img.shields.io/badge/Results-7C3AED?style=flat-square)](#results) [![Visualizations](https://img.shields.io/badge/Visualizations-7C3AED?style=flat-square)](#visualizations) [![Limitations](https://img.shields.io/badge/Limitations-DC2626?style=flat-square)](#known-limitations) [![Contributors](https://img.shields.io/badge/Contributors-F59E0B?style=flat-square)](#contributors) [![References](https://img.shields.io/badge/References-F59E0B?style=flat-square)](#references-and-acknowledgments)
 
 </div>
 
