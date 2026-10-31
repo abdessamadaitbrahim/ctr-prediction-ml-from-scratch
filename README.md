@@ -4,7 +4,6 @@ Binary classification of online-advertisement clicks, comparing four classical a
 
 Academic project, National School of Applied Sciences of Tetouan (ENSA Tetouan), field of study: Big Data & AI.
 
-<!-- **Contents:** [Overview](#overview) | [Dataset](#dataset) | [EDA](#exploratory-data-analysis) | [Preprocessing](#data-preprocessing) | [Models](#machine-learning-approaches) | [Evaluation](#evaluation-methodology) | [Results](#results) | [Visualizations](#visualizations) | [Known limitations](#known-limitations) | [Structure](#repository-structure) | [Installation](#installation) | [Usage](#usage) | [Contributors](#contributors) | [References](#references-and-acknowledgments) -->
 <div align="center">
 
 [![Overview](https://img.shields.io/badge/Overview-2563EB?style=for-the-badge)](#overview)
@@ -16,17 +15,12 @@ Academic project, National School of Applied Sciences of Tetouan (ENSA Tetouan),
 [![Evaluation](https://img.shields.io/badge/Evaluation-7C3AED?style=for-the-badge)](#evaluation-methodology)
 [![Results](https://img.shields.io/badge/Results-7C3AED?style=for-the-badge)](#results)
 [![Visualizations](https://img.shields.io/badge/Visualizations-7C3AED?style=for-the-badge)](#visualizations)
-[![Limitations](https://img.shields.io/badge/Limitations-DC2626?style=for-the-badge)](#known-limitations)
 
-[![Structure](https://img.shields.io/badge/Structure-059669?style=for-the-badge)](#repository-structure)
-[![Installation](https://img.shields.io/badge/Installation-059669?style=for-the-badge)](#installation)
-[![Usage](https://img.shields.io/badge/Usage-059669?style=for-the-badge)](#usage)
+[![Limitations](https://img.shields.io/badge/Limitations-DC2626?style=for-the-badge)](#known-limitations)
 [![Contributors](https://img.shields.io/badge/Contributors-F59E0B?style=for-the-badge)](#contributors)
 [![References](https://img.shields.io/badge/References-F59E0B?style=for-the-badge)](#references-and-acknowledgments)
 
 </div>
-
----
 
 ## Overview
 
